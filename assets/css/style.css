@@ -114,7 +114,7 @@ a {
 /* slider */
 
 #slider {
-    background: url('/assets/img/chicago.jpg') top center / cover no-repeat;
+    background: url('https://hieuvuu.github.io/responsive-w3/assets/img/chicago.jpg') top center / cover no-repeat;
     margin-top: 28.5px;
     padding-top: 50%;
     position: relative;
@@ -360,7 +360,7 @@ a {
 }
 
 .map-section {
-    background: url('/assets/img/map.jpg') top center / cover no-repeat;
+    background: url('https://hieuvuu.github.io/responsive-w3/assets/img/map.jpg') top center / cover no-repeat;
     padding-top: 50%;
 }
 
